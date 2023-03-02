@@ -1,0 +1,12 @@
+.piiri {
+  display: flex;
+  flex-direction: column;
+}
+
+#piirit {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 40px;
+  max-width: 450px;
+}
